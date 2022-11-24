@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentProjectConfig">
+    <option name="domain" value="http://localhost:8080/springMVC01" />
+    <option name="enableEnv" value="test" />
+    <option name="enableProject" value="springMVC01" />
+  </component>
+</project>
